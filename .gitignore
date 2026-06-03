@@ -1,0 +1,13 @@
+# AIDesigner local run artifacts & previews (not needed for deploy)
+.aidesigner/
+
+# gstack session/repo-mode marker
+.gstack/
+
+# Vercel CLI local state
+.vercel/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
