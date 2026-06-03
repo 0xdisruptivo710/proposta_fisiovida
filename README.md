@@ -25,5 +25,5 @@ npx serve .
 
 ## Antes de enviar ao cliente
 
-- [ ] Preencher o número real de WhatsApp nos dois CTAs (placeholder `55XXXXXXXXXXX` em `index.html`).
+- [x] Número de WhatsApp preenchido nos dois CTAs (+351 961 342 444).
 - [ ] Conferir cidade/domínio no rodapé.
